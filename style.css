@@ -358,7 +358,7 @@ body {
 /* ✅ RESPONSIVE LAYOUT FOR MOBILE */
 @media (max-width: 768px) {
   .icons{
-    visibility: collapse;
+    visibility: hidden;
   }
 
 
